@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pyTorchAutoForge"
+		},
+		{
+			"path": "../torchAutoForge-deploy"
+		},
+		{
+			"path": "../TensorRT"
+		},
+		{
+			"path": "../accelerated_features_PeterCdev"
+		},
+		{
+			"path": "../SuperGluePretrainedNetwork_PeterCdev"
+		}
+	],
+	"settings": {}
+}
